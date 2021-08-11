@@ -12,11 +12,5 @@ Dataset & Training of Yolo v5 model :-
 ![image](https://user-images.githubusercontent.com/75730196/129078563-023f7b22-a41b-4280-8335-b2091485d5ca.png)
 
 Dataset: 5500 Images (Train and Test) and generate labels for each image
- To train a custom Yolo V5 model, these are the steps to follow:
- Set up your environment.(Using Google Collab.)
- Set up the data and the directories.
- Set up the configuration YAML files.(Includes Train , Test Path)
- Train the model to learn how to detect objects.
- Use your  Yolo V5 model to detect objects on the test data.
 ![image](https://user-images.githubusercontent.com/75730196/129078607-8e5ca950-f1a8-48e7-8b5d-186dbfa01c05.png)
 
