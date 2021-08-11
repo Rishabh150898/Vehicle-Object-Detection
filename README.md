@@ -9,8 +9,20 @@ Vehicle tracking is the process of locating a moving vehicle using a camera. Cap
 Class names:'auto','bus','car','lcv','motorcycle','multiaxle','tractor','truck’.
 
 
-Dataset & Training of Yolo v5 model :-
+
 ![image](https://user-images.githubusercontent.com/75730196/129078563-023f7b22-a41b-4280-8335-b2091485d5ca.png)
 
 ![image](https://user-images.githubusercontent.com/75730196/129078607-8e5ca950-f1a8-48e7-8b5d-186dbfa01c05.png)
 
+![image](https://user-images.githubusercontent.com/75730196/129079090-fb709d33-342c-47b7-81b1-8ad90f54f65b.png)
+
+![image](https://user-images.githubusercontent.com/75730196/129079160-bad515d4-09b6-4df6-ab49-cd74c78d6690.png)
+
+Dataset Link:- Vehicle Detection 8 Classes | Object Detection | Kaggle
+![image](https://user-images.githubusercontent.com/75730196/129079222-7d2e71c2-e6da-43b9-af47-26cfdcb7bdfd.png)
+![image](https://user-images.githubusercontent.com/75730196/129079240-981dd007-7b4e-49b1-9eef-b40ee1c86b61.png)
+![image](https://user-images.githubusercontent.com/75730196/129079280-ea6b510f-b08b-45e6-a3a3-534ab4bf4d7b.png)
+![image](https://user-images.githubusercontent.com/75730196/129079319-5ec2933f-7e16-4ec5-bcdc-2a544c431152.png)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
