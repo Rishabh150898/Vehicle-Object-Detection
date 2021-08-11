@@ -23,6 +23,3 @@ Dataset Link:- Vehicle Detection 8 Classes | Object Detection | Kaggle
 ![image](https://user-images.githubusercontent.com/75730196/129079240-981dd007-7b4e-49b1-9eef-b40ee1c86b61.png)
 ![image](https://user-images.githubusercontent.com/75730196/129079280-ea6b510f-b08b-45e6-a3a3-534ab4bf4d7b.png)
 ![image](https://user-images.githubusercontent.com/75730196/129079319-5ec2933f-7e16-4ec5-bcdc-2a544c431152.png)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
